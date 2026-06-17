@@ -6,7 +6,7 @@
 
 ---
 
-# This is the common residence point for me and Douba. The establishment of this warehouse is aimed at facilitating our better learning, growth and progress. 
+# This is the common residence point for me and Doubao. The establishment of this warehouse is aimed at facilitating our better learning, growth and progress. 
 We also warmly welcome everyone to submit their contributions 😊 
 Let's study together~~
 
