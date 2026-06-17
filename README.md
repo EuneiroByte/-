@@ -1,6 +1,12 @@
+<div align="center">
+
 # 🎀 Cute Girl 2D Unity Project
 
+<img src="Assets/Sprites/CuteGirl.png" width="256" alt="可爱卡通女孩预览图">
+
 一个可爱卡通风的Unity 2D项目，包含萌萌的卡通女孩角色和完整的游戏框架。
+
+</div>
 
 ## ✨ 项目特色
 
@@ -18,7 +24,8 @@ CuteGirl2DProject/
 │   │   ├── CuteGirlController.cs    # 角色控制器
 │   │   └── CameraFollow.cs          # 相机跟随
 │   ├── Sprites/          # 2D精灵资源
-│   │   └── CuteGirl.svg            # 可爱卡通女孩形象
+│   │   ├── CuteGirl.svg            # 矢量图源文件
+│   │   └── CuteGirl.png            # PNG预览图
 │   ├── Scenes/           # 场景文件
 │   ├── Prefabs/          # 预制体
 │   └── Materials/        # 材质
