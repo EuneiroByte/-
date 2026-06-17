@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="256" cy="256" r="240" fill="#FFE4E1" opacity="0.3"/>
+  
+  <!-- Hair Back -->
+  <ellipse cx="256" cy="200" rx="140" ry="130" fill="#8B4513"/>
+  
+  <!-- Face -->
+  <ellipse cx="256" cy="220" rx="110" ry="120" fill="#FFE4C4"/>
+  
+  <!-- Hair Front & Bangs -->
+  <path d="M140 160 Q160 80 256 70 Q352 80 372 160 Q360 140 320 130 Q280 120 256 125 Q232 120 192 130 Q152 140 140 160" fill="#8B4513"/>
+  <path d="M180 130 Q190 150 185 170" stroke="#8B4513" stroke-width="15" fill="none" stroke-linecap="round"/>
+  <path d="M220 125 Q230 145 225 165" stroke="#8B4513" stroke-width="15" fill="none" stroke-linecap="round"/>
+  <path d="M292 125 Q282 145 287 165" stroke="#8B4513" stroke-width="15" fill="none" stroke-linecap="round"/>
+  <path d="M332 130 Q322 150 327 170" stroke="#8B4513" stroke-width="15" fill="none" stroke-linecap="round"/>
+  
+  <!-- Hair Sides -->
+  <ellipse cx="150" cy="250" rx="25" ry="60" fill="#8B4513"/>
+  <ellipse cx="362" cy="250" rx="25" ry="60" fill="#8B4513"/>
+  
+  <!-- Eyes White -->
+  <ellipse cx="206" cy="210" rx="28" ry="32" fill="white"/>
+  <ellipse cx="306" cy="210" rx="28" ry="32" fill="white"/>
+  
+  <!-- Eyes Iris -->
+  <circle cx="210" cy="212" r="18" fill="#4A90D9"/>
+  <circle cx="310" cy="212" r="18" fill="#4A90D9"/>
+  
+  <!-- Eyes Pupil -->
+  <circle cx="214" cy="214" r="10" fill="#2C3E50"/>
+  <circle cx="314" cy="214" r="10" fill="#2C3E50"/>
+  
+  <!-- Eyes Highlight -->
+  <circle cx="206" cy="206" r="5" fill="white"/>
+  <circle cx="306" cy="206" r="5" fill="white"/>
+  <circle cx="218" cy="218" r="3" fill="white"/>
+  <circle cx="318" cy="218" r="3" fill="white"/>
+  
+  <!-- Eyebrows -->
+  <path d="M175 180 Q206 170 237 180" stroke="#5D4037" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M275 180 Q306 170 337 180" stroke="#5D4037" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Blush -->
+  <ellipse cx="165" cy="245" rx="22" ry="14" fill="#FFB6C1" opacity="0.6"/>
+  <ellipse cx="347" cy="245" rx="22" ry="14" fill="#FFB6C1" opacity="0.6"/>
+  
+  <!-- Nose -->
+  <ellipse cx="256" cy="245" rx="6" ry="4" fill="#E8C4A0"/>
+  
+  <!-- Mouth (Cute Smile) -->
+  <path d="M230 270 Q256 290 282 270" stroke="#E57373" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Body -->
+  <ellipse cx="256" cy="380" rx="90" ry="80" fill="#FF69B4"/>
+  
+  <!-- Dress Details -->
+  <path d="M200 340 Q256 360 312 340 L312 440 Q256 460 200 440 Z" fill="#FF1493"/>
+  <ellipse cx="256" cy="350" rx="30" ry="15" fill="white" opacity="0.3"/>
+  
+  <!-- Neck -->
+  <rect x="236" y="290" width="40" height="30" fill="#FFE4C4" rx="5"/>
+  
+  <!-- Arms -->
+  <ellipse cx="160" cy="370" rx="20" ry="45" fill="#FFE4C4" transform="rotate(-20 160 370)"/>
+  <ellipse cx="352" cy="370" rx="20" ry="45" fill="#FFE4C4" transform="rotate(20 352 370)"/>
+  
+  <!-- Hair Bows -->
+  <ellipse cx="170" cy="120" rx="20" ry="12" fill="#FF69B4" transform="rotate(-30 170 120)"/>
+  <ellipse cx="185" cy="110" rx="20" ry="12" fill="#FF69B4" transform="rotate(30 185 110)"/>
+  <circle cx="178" cy="115" r="8" fill="#FF1493"/>
+  
+  <ellipse cx="342" cy="120" rx="20" ry="12" fill="#FF69B4" transform="rotate(30 342 120)"/>
+  <ellipse cx="327" cy="110" rx="20" ry="12" fill="#FF69B4" transform="rotate(-30 327 110)"/>
+  <circle cx="334" cy="115" r="8" fill="#FF1493"/>
+  
+  <!-- Little Hearts Decoration -->
+  <path d="M100 300 C95 290, 85 290, 85 300 C85 310, 100 320, 100 320 C100 320, 115 310, 115 300 C115 290, 105 290, 100 300" fill="#FF69B4" opacity="0.7"/>
+  <path d="M412 300 C407 290, 397 290, 397 300 C397 310, 412 320, 412 320 C412 320, 427 310, 427 300 C427 290, 417 290, 412 300" fill="#FF69B4" opacity="0.7"/>
+</svg>

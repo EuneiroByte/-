@@ -1,0 +1,307 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 25
+  productGUID: 00000000000000000000000000000000
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 4
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: DefaultCompany
+  productName: CuteGirl2DProject
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  m_SplashScreenBackgroundLandscapeAspect: 1
+  m_SplashScreenBackgroundPortraitAspect: 1
+  m_SplashScreenDelay: 0
+  m_SplashScreenDuration: 2
+  m_VirtualRealitySplashScreen: {fileID: 0}
+  m_HolographicTrackingLossScreen: {fileID: 0}
+  defaultScreenWidth: 1080
+  defaultScreenHeight: 1920
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_StereoRenderingPath: 0
+  m_ActiveColorSpace: 1
+  m_MTRendering: 1
+  mipStripping: 0
+  numberOfMipsStripped: 0
+  m_StackTraceTypes: 010000000100000001000000010000000100000001000000
+  iosShowActivityIndicatorOnLoading: -1
+  androidShowActivityIndicatorOnLoading: -1
+  iosUseCustomAppBackgroundBehavior: 0
+  iosAllowHTTPDownload: 1
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDown: 1
+  allowedAutorotateToLandscapeRight: 1
+  allowedAutorotateToLandscapeLeft: 1
+  useOSAutorotation: 1
+  use32BitDisplayBuffer: 1
+  preserveFramebufferAlpha: 0
+  disableDepthAndStencilBuffers: 0
+  androidStartInFullscreen: 1
+  androidRenderOutsideSafeArea: 1
+  androidUseSwappy: 1
+  androidBlitType: 0
+  androidResizableWindow: 0
+  androidDefaultWindowWidth: 1920
+  androidDefaultWindowHeight: 1080
+  androidMinimumWindowWidth: 400
+  androidMinimumWindowHeight: 300
+  androidFullscreenMode: 1
+  androidUseDisplayCutout: 1
+  batchmode: 0
+  resolutionDialogBanner: {fileID: 0}
+  m_BuildTargetIcons: []
+  m_BuildTargetBatching: []
+  m_BuildTargetGraphicsJobs: []
+  m_BuildTargetGraphicsJobMode: []
+  m_BuildTargetGraphicsAPIs: []
+  m_BuildTargetVRSettings: []
+  m_BuildTargetEnableVuforiaSettings: []
+  openGLRequireES31: 0
+  openGLRequireES31AEP: 0
+  openGLRequireES32: 0
+  m_SupportedAspectRatios:
+    4:3: 1
+    5:4: 1
+    16:10: 1
+    16:9: 1
+    Others: 1
+  bundleVersion: 1.0
+  preloadedAssets: []
+  metroInputSource: 0
+  wsaTransparentSwapchain: 0
+  m_HolographicPauseOnTrackingLoss: 1
+  xboxOneResolution: 0
+  xboxOneSResolution: 0
+  xboxOneXResolution: 3
+  xboxOneMonoLoggingLevel: 0
+  xboxOneLoggingLevel: 1
+  xboxOneDisableEsram: 0
+  xboxOnePresentImmediateThreshold: 0
+  xboxOneOneCorePresentImmediateThreshold: 0
+  xboxOneOverrideIdentityName: 0
+  xboxOneOverrideIdentityPublisher: 0
+  xboxOneProductId: 
+  xboxOneUpdateKey: 
+  xboxOneSandboxId: 
+  xboxOneContentId: 
+  xboxOneTitleId: 
+  xboxOneSCId: 
+  xboxOneAllowedProductIds: []
+  xboxOnePersistentLocalStorageSize: 0
+  xboxOneXTitleMemory: 0
+  vrEditorSettings: {}
+  cloudServicesEnabled:
+    UNITY_ANALYTICS: 0
+    UNITY_CLOUD_SERVICES: 0
+    UNITY_CONNECT: 0
+    UNITY_PERFORMANCE_REPORTING: 0
+  gameServicesAndroidAppId: 
+  ps4NPAgeRating: 0
+  ps4NPTitleSecret: 
+  ps4NPTrophyPackPath: 
+  ps4ParentalLevel: 11
+  ps4Category: 0
+  ps4MasterVersion: 01.00
+  ps4AppVersion: 01.00
+  ps4AppType: 0
+  ps4ParamSfxPath: 
+  videoMemoryForVertexBuffers: 0
+  monoEnv: 
+  splashScreenBackgroundSourceLandscape: {fileID: 0}
+  splashScreenBackgroundSourcePortrait: {fileID: 0}
+  blurSplashScreenBackground: 1
+  spritePackerPolicy: 
+  webGLMemorySize: 16
+  webGLExceptionSupport: 1
+  webGLNameFilesAsHashes: 0
+  webGLDataCaching: 1
+  webGLDebugSymbols: 0
+  webGLEmscriptenArgs: 
+  webGLModulesDirectory: 
+  webGLTemplate: APPLICATION:Default
+  webGLAnalyzeBuildSize: 0
+  webGLUseEmbeddedResources: 0
+  webGLCompressionFormat: 1
+  webGLWasmArithmeticExceptions: 0
+  webGLThreadsSupport: 0
+  webGLDecompressionFallback: 0
+  scriptingRuntimeVersion: 1
+  gcIncremental: 0
+  gcWBarrierValidation: 0
+  apiCompatibilityLevelPerPlatform: {}
+  activeInputHandler: 0
+  windowsGamepadBackendHint: 0
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  metroPackageName: 
+  metroPackageVersion: 
+  metroCertificatePath: 
+  metroCertificatePassword: 
+  metroCertificateSubject: 
+  metroCertificateIssuer: 
+  metroCertificateNotAfter: 
+  applicationIdentifier: {}
+  buildNumber: {}
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 22
+  AndroidTargetSdkVersion: 0
+  AndroidPreferredInstallLocation: 1
+  aotOptions: 
+  stripEngineCode: 1
+  iPhoneStrippingLevel: 0
+  iPhoneScriptCallOptimization: 0
+  ForceInternetPermission: 0
+  ForceSDCardPermission: 0
+  CreateWallpaper: 0
+  apkExpansionFiles: 0
+  keepLoadedShadersAlive: 0
+  StripUnusedComponents: 1
+  pixelLightCount: 4
+  shaderPrecisionModel: 1
+  actionOnDotNetUnhandledException: 1
+  enableInternalProfiler: 0
+  logObjCUncaughtExceptions: 1
+  enableCrashReport: 0
+  submitAnalytics: 1
+  usePlayerLog: 1
+  bakeCollisionMeshes: 0
+  forceSingleInstance: 0
+  useFlipModelSwapchain: 1
+  resizableWindow: 1
+  macRetinaSupport: 1
+  runInBackground: 1
+  muteOtherAudioSources: 0
+  Prepare IOS For Recording: 0
+  Force IOS Speakers When Recording: 0
+  deferSystemGesturesMode: 0
+  hideHomeButton: 0
+  appleDeveloperTeamID: 
+  iOSManualSigningProvisioningProfileID: 
+  tvOSManualSigningProvisioningProfileID: 
+  iOSManualSigningProvisioningProfileType: 0
+  tvOSManualSigningProvisioningProfileType: 0
+  appleEnableAutomaticSigning: 0
+  iOSRequireARKit: 0
+  clonedFromGUID: 00000000000000000000000000000000
+  templatePackageId: 
+  templateDefaultScene: 
+  vuforiaEnabled: 0
+  enableNativePlatformBackendsForNewInputSystem: 0
+  disableOldInputManagerSupport: 0
+  legacyClampBlendShapeWeights: 0
+  playerDataPath: 
+  forceSRGBBlit: 0
+  useCustomMainManifest: 0
+  useCustomLauncherManifest: 0
+  useCustomMainGradleTemplate: 0
+  useCustomLauncherGradleManifest: 0
+  useCustomBaseGradleTemplate: 0
+  useCustomGradlePropertiesTemplate: 0
+  useCustomProguardFile: 0
+  useCustomGradleSettingsTemplate: 0
+  androidTargetArchitectures: 1
+  androidSplashScreenScale: 0
+  androidCreateSymbols: 0
+  androidMinifyRelease: 0
+  androidMinifyDebug: 0
+  androidTargetArchitecturesActive: 1
+  m_BuildTargetGroupAllowUnsafe: {}
+  m_BuildTargetGroupAllowRuntimeCodeGeneration: {}
+  m_BuildTargetGroupAdditionalCompilerArguments: {}
+  m_BuildTargetGroupLangVersion: {}
+  m_BuildTargetGroupAssembliesCompileTarget: {}
+  m_BuildTargetGroupSuppressCompilerWarnings: {}
+  m_BuildTargetGroupWarningsAsErrors: {}
+  m_BuildTargetGroupSelectedPlatform: {}
+  m_BuildTargetGroupSelectedBackend: {}
+  m_BuildTargetGroupSelectedNetCore: {}
+  m_BuildTargetGroupUseDeterministicCompilation: {}
+  m_BuildTargetGroupEnableRoslynAnalyzers: {}
+  m_BuildTargetGroupAllowUnsafeCode: {}
+  m_BuildTargetGroupEnableNullableContext: {}
+  m_BuildTargetGroupSharedLibraryProfile: {}
+  m_BuildTargetGroupIl2CppCompilerConfiguration: {}
+  m_BuildTargetGroupUseSpecificDotNetSdk: {}
+  m_BuildTargetGroupDotNetSdkPath: {}
+  m_BuildTargetGroupDotNetSdkVersion: {}
+  m_BuildTargetGroupEnableDebugger: {}
+  m_BuildTargetGroupEnableProfiler: {}
+  m_BuildTargetGroupEnableWaitForManagedDebugger: {}
+  m_BuildTargetGroupEnableManagedDebuggers: {}
+  m_BuildTargetGroupEnableNativeDebuggers: {}
+  m_BuildTargetGroupScriptingBackend: {}
+  m_BuildTargetGroupStrippingLevel: {}
+  m_BuildTargetGroupIncrementalGc: {}
+  m_BuildTargetGroupUseSpecificIl2CppPath: {}
+  m_BuildTargetGroupIl2CppPath: {}
+  m_BuildTargetGroupAdditionalIl2CppArguments: {}
+  m_BuildTargetGroupAdditionalCppArguments: {}
+  m_BuildTargetGroupAdditionalLdArguments: {}
+  m_BuildTargetGroupMapFile: {}
+  m_BuildTargetGroupCpuConfiguration: {}
+  m_BuildTargetGroupSuppressCommonWarnings: {}
+  m_BuildTargetGroupTreatWarningsAsErrors: {}
+  m_BuildTargetGroupEnableExceptions: {}
+  m_BuildTargetGroupStacktrace: {}
+  m_BuildTargetGroupGenericSharing: {}
+  m_BuildTargetGroupEnableDeepProfiling: {}
+  m_BuildTargetGroupEnableDeepProfilingSupport: {}
+  m_BuildTargetGroupEnableLineNumbers: {}
+  m_BuildTargetGroupEnablePerformanceReporting: {}
+  m_BuildTargetGroupEnableCrashReporting: {}
+  m_BuildTargetGroupEnableNativeCrashReporting: {}
+  m_BuildTargetGroupEnableHeapVerify: {}
+  m_BuildTargetGroupEnableCodeCoverage: {}
+  m_BuildTargetGroupEnableSymbolUpload: {}
+  m_BuildTargetGroupEnableSourceLink: {}
+  m_BuildTargetGroupEnableDeterministicCompilation: {}
+  m_BuildTargetGroupEnableOptimizations: {}
+  m_BuildTargetGroupEnableDebugging: {}
+  m_BuildTargetGroupEnableTracing: {}
+  m_BuildTargetGroupEnableMetadata: {}
+  m_BuildTargetGroupEnableAssertions: {}
+  m_BuildTargetGroupEnableChecksum: {}
+  m_BuildTargetGroupEnableRPC: {}
+  m_BuildTargetGroupEnableArrayBoundsCheck: {}
+  m_BuildTargetGroupEnableDivideByZeroCheck: {}
+  m_BuildTargetGroupEnableFloatOverflowCheck: {}
+  m_BuildTargetGroupEnableIntOverflowCheck: {}
+  m_BuildTargetGroupEnableLogging: {}
+  m_BuildTargetGroupEnableUnityLogSupport: {}
+  m_BuildTargetGroupEnableConsoleLogSupport: {}
+  m_BuildTargetGroupEnableOldStackTraceSupport: {}
+  m_BuildTargetGroupEnableOldBehaviour: {}
+  m_BuildTargetGroupEnableLegacyProfiler: {}
+  m_BuildTargetGroupEnableLegacyMemoryManager: {}
+  m_BuildTargetGroupEnableLegacyThreading: {}
+  m_BuildTargetGroupEnableLegacyJobs: {}
+  m_BuildTargetGroupEnableLegacyJobsDebugger: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegration: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupport: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLogging: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerbose: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThread: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorker: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorkerSteal: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorkerStealCount: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorkerStealCountMax: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorkerStealCountMaxTime: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorkerStealCountMaxTimeAverage: {}
+  m_BuildTargetGroupEnableLegacyJobsDebuggerIntegrationSupportLoggingVerboseThreadWorkerStealCountMaxTimeAverageCount: {}
